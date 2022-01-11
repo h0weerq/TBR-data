@@ -24,8 +24,8 @@
   "rob": {
     "cooldown": 3600000,
     "fine": {
-      "min": 500,
-      "max": 3000
+      "min": 350,
+      "max": 2500
     },
     "chance": 40,
     "success": ["Сегодня %user% оказался без %amount%"],
