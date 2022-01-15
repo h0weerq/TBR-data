@@ -14,7 +14,7 @@
   },
   "income": {
     "work": {
-      "cooldown": 1,
+      "cooldown": 0,
       "payout": {
         "min": 99999999999,
         "max": 99999999999
@@ -24,7 +24,7 @@
       ]
     },
     "crime": {
-      "cooldown": 1,
+      "cooldown": 0,
       "payout": {
         "min": 99999999999,
         "max": 999999999999
