@@ -14,20 +14,20 @@
   },
   "income": {
     "work": {
-      "cooldown": 0,
+      "cooldown": 3600000,
       "payout": {
-        "min": 99999999999,
-        "max": 99999999999
+        "min": 1000,
+        "max": 2000
       },
       "success": [
         "Поздравляю! Ты насосал: %amount%!"
       ]
     },
     "crime": {
-      "cooldown": 0,
+      "cooldown": 1800000,
       "payout": {
-        "min": 99999999999,
-        "max": 999999999999
+        "min": 500,
+        "max": 1500
       },
       "fine": {
         "min": 350,
@@ -42,10 +42,10 @@
       ]
     },
     "rob": {
-      "cooldown": 1,
+      "cooldown": 2700000,
       "fine": {
-        "min": 0,
-        "max": 9999999
+        "min": 300,
+        "max": 3000
       },
       "chance": 40,
       "success": [
